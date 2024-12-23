@@ -1,0 +1,20 @@
+.App-Product-Container {
+    display:flex;
+    justify-content: space-around;
+    background-color: rgb(137, 224, 226);
+}
+
+.App-Product-Box{
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid dimgray;
+    border-radius: 5px;
+}
+.btn{
+    width:250px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgb(86, 158, 209);
+    align-content: end;
+}
